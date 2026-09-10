@@ -1,0 +1,6 @@
+.env
+.npmrc
+node_modules/
+.DS_Store
+debug/
+test-results/.last-run.json

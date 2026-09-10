@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "test": "node --env-file=.env ./node_modules/@playwright/test/cli.js test"
+  },
+  "dependencies": {
+    "@evinced/js-playwright-sdk": "^2.56.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.63.0"
+  }
+}
